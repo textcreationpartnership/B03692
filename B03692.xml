@@ -1,0 +1,332 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The conduct and conveyance of our Fathers amd martyrs testimony in the Church of Scotland justified and continued. The paralel [sic] testimony in 38 and 49 reciprocal, with the present testimony against Popery, prelacy, liberty of conscience, stated and delineated, from the Bible, reason, and testimony of history. / By W.H., minister of the gospel, and prisoner at Edinburgh, January 9th, 1690.</title>
+            <author>Houschone, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03692</idno>
+            <idno type="STC">Wing H2943</idno>
+            <idno type="STC">ESTC R178268</idno>
+            <idno type="EEBO-CITATION">53981664</idno>
+            <idno type="OCLC">ocm 53981664</idno>
+            <idno type="VID">180250</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03692)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180250)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2823:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The conduct and conveyance of our Fathers amd martyrs testimony in the Church of Scotland justified and continued. The paralel [sic] testimony in 38 and 49 reciprocal, with the present testimony against Popery, prelacy, liberty of conscience, stated and delineated, from the Bible, reason, and testimony of history. / By W.H., minister of the gospel, and prisoner at Edinburgh, January 9th, 1690.</title>
+                  <author>Houschone, William.</author>
+               </titleStmt>
+               <extent>[16]+ p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>Printed in the year 1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>W.H. = William Houschone. Cf. Wing (2nd ed.).</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Imperfect: lacks all after p. 16; cropped and stained with slight loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Covenanters --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:180250:1" rendition="simple:additions"/>
+            <p>THE CONDUCT and CONVEYANCE OF OUR <hi>Fathers</hi> and <hi>Martyrs</hi> Teſtimony. In The CHURCH OF SCOTLAND. Juſtified and Continued.</p>
+            <p>The Paralel Teſtimony in 38 and 49 Reci<g ref="char:EOLhyphen"/>procal, with the preſent Teſtimony againſt <hi>Popery, Prelacy, Liberty of Conſcience,</hi> Stated and Delineated, from the Bible, Reaſon, and Teſtimony of Hiſtory.</p>
+            <q>
+               <bibl>
+                  <hi>Job 17.9.</hi>
+               </bibl>
+               <p>The righteous ſhall hold on his way, and he that hath clean hands ſhall wax ſtronger and ſtronger.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Cypr. Ep. ad Carth.</hi>
+               </bibl>
+               <p>Fratribus in plebe conſiſtentibus Exa<g ref="char:EOLhyphen"/>minabuntur ſingula preſentibus &amp; vobis judicantibus.</p>
+            </q>
+            <p>By W. H. <hi>Miniſter of the Goſpel, and priſoner at</hi> Edinburgh, <hi>January</hi> 9th; 1690.</p>
+            <p>Printed in the Year 1690.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:180250:2"/>
+            <p>THE clamant caſe of Confeſſion in keep<g ref="char:EOLhyphen"/>ing the word of Gods patience in order to tranſmitting of a teſtimony, among the Primitive Chriſtians, was Magnanimouſly maintained againſt <hi>Paganiſm</hi> by <hi>Culdees,</hi> by the <hi>Tabrits</hi> of <hi>Bohemia,</hi> by the <hi>Lollards</hi> of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> (ſo named) the <hi>Proteſtants</hi> Evidenc<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> clearly delineat, notwithſtanding all the World did dip their pens in poyſon, and ſharpened their tongues in Gall: <hi>Calumni<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> audacter, &amp; ſemper aliquod haerebit;</hi> glour with their eyes, and gore with their tongues, hate nick-name rail, which word of GODS Patience, gifts, yea graces, without ſupply of grace, even the power of GOD: <hi>Adam</hi> in in the eſtate of innocency when he had wiſ<g ref="char:EOLunhyphen"/>dom at his will, and reaſon at command<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> could not maintain, (yet <hi>Scotland</hi> once ſtiled the life guard of Heaven, whoſe ſtrength did ly in their tongues before the Crown rights of Heaven, were betrayed into the hands of Tyranny, and lawleſs Liberty, even the De<g ref="char:EOLunhyphen"/>clarative and Mediatory glory of <hi>Chriſt</hi>) was not only among the firſt of the Conqueſt o<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Chriſts Kingdom, but even, alſo then when
+<pb facs="tcp:180250:2"/>32 parts of the world, 27 were Pagan, 5 de<g ref="char:EOLhyphen"/>generate to worſhip wood and ſtone, one em<g ref="char:EOLhyphen"/>braced che Oligarchical Tiranny of Prelacy; the remnant of <hi>Bohemia</hi> and <hi>Scotland,</hi> and <hi>Jo<g ref="char:EOLhyphen"/>ſhua Gianevel</hi> in <hi>Piedmont,</hi> and many others, witneſs <hi>Birkbers Proteſtant Evidence,</hi> (tho GOD did ſcum the remnant) concerted and mar<g ref="char:EOLhyphen"/>vouſly grapled for the pure and powerful te<g ref="char:EOLhyphen"/>ſtimony of our Lord, for the Kirk and Kernel thereof. Hence ſome neatly, tho critically, yet candidly allude to <hi>Scotizei:</hi> In the <hi>Revela<g ref="char:EOLhyphen"/>tion,</hi> that is, <hi>ſhall darken the ſeat of the beaſt,</hi> viz. <hi>Scotsmen;</hi> it being a Covenanted Nation to the Lord, 2 <hi>Chron.</hi> 15. and <hi>Jer.</hi> 50.6, 7. tells us the fruites thereof, what ever the irregula<g ref="char:EOLhyphen"/>rities of an Oath may be, yet are not the cir<g ref="char:EOLhyphen"/>cumſtances converſant about the Act of ſwear<g ref="char:EOLhyphen"/>ing, but the intrinſecal matter of the Oath which do annihilat the obligation thereof: witneſs the Confeſſion of the learned <hi>Dr. San<g ref="char:EOLhyphen"/>derſon,</hi> tho an enemy, who ever read with <hi>Gra<g ref="char:EOLhyphen"/>noſalis,</hi> plainly perceive the vainity of this Diſtinction, the Relaxation of the matter, and ſtrength of an Oath; he terms it, <hi>materi<g ref="char:EOLhyphen"/>am</hi> and <hi>vim juramenti:</hi> Yet <hi>Arniſaeus Doct: Pol: Leydeker, &amp;c.</hi> And all agree, my will, con<g ref="char:EOLhyphen"/>tract, according to what my knowledge reacheth, and in ſo far am <hi>I</hi> bound to eſpouſe mutually perſons, lives, goods of the Cove<g ref="char:EOLhyphen"/>nanted party, much more when there is a po<g ref="char:EOLhyphen"/>ſitive
+<pb facs="tcp:180250:3"/>law of GOD, againſt Idolatry, Prelacy, liberty of Conſcience, which we have illu<g ref="char:EOLhyphen"/>ſtrate in the Dimentions of the Primitive Bi<g ref="char:EOLhyphen"/>ſhops, commenſerat according to their paſto<g ref="char:EOLhyphen"/>ral relation: <hi>Ignatius</hi> ſtiling them, <hi>Fraternity,</hi> Conſociations, and Presbytery, Printed at <hi>London</hi> in the 84 from the Hiſtorical Rela<g ref="char:EOLhyphen"/>tions of <hi>Holingſhead, Pamelius, Albaſpineus, Syl<g ref="char:EOLhyphen"/>vanneus</hi> Hiſtory; Tho much more may be read in the books of Gods Judgements on perjured perſons. In that Roll of <hi>Ezekiel</hi> cal<g ref="char:EOLhyphen"/>led <hi>Opiſto grapha</hi> 9. <hi>ch.</hi> having the foreſide, all our ſins the backſide, all our Judgements. And in the 17 of <hi>Ezekiel, As I live ſaith the Lord, its my oath, ye have broken my Covenant, ye have deſpiſed. Zedekiah,</hi> Whom God roaſted in the fire, for breach of Covenant, ſhifted the Watchmen; becauſe <hi>Jeremiah</hi> preached one thing, <hi>Ezekiel</hi> the clean contrary; <hi>Jere<g ref="char:EOLhyphen"/>miah</hi> told him he ſhould be carried down to <hi>Babylon, Ezekiel,</hi> he ſhould never ſee <hi>Babylon:</hi> Yet God reconciled them both to his ruine, his eyes were pickt out of his head, he never ſaw <hi>Babylon;</hi> The ſame end fell to <hi>Almerick</hi> King of <hi>Jeruſalem, <g ref="char:V">Ʋ</g>ladiſtaus</hi> breach of Cove<g ref="char:EOLhyphen"/>nant with the <hi>Turks, Harold</hi> the laſt King of the <hi>Danes</hi> that ever reigned in <hi>England,</hi> for his breach of Covenant, with <hi>William</hi> Duke of <hi>Normandy.</hi> Thus have we Abſolutely conſi<g ref="char:EOLhyphen"/>ſidered; now Relatively the caſe, <hi>Paul</hi> to the
+<pb facs="tcp:180250:3"/>
+               <hi>Romans</hi> 13.11. Tells us, <hi>Its high time to awake for our Salvation, is nearer then when we believed;</hi> As knowing the time to awake from ſleep, tho ſignes Diagnoſtick of former, and Progno<g ref="char:EOLhyphen"/>ſtick of future times, eaſily ventilat, all Ob<g ref="char:EOLhyphen"/>jections in a tranſient view of the ſame.</p>
+            <p>Moral Signs, are palpable in a long delay of common equity betwixt man and man.</p>
+            <p>Evangelical, a ſpirit of Goſpel love, and frame ſuitable to a Deliverance, where that Porter of prejudice that ſtands ſentinal at the hearts of men, againſt truth is removed, 1 <hi>John</hi> 3.14.</p>
+            <p>Forenſcical, or the Court of Juſtice, <hi>Iſaiah</hi> 16. <hi>v.</hi> 12.13.</p>
+            <p>Political ſignes hitherto theſe 28 years ap<g ref="char:EOLhyphen"/>peared, when pynts of <hi>Proteſtants</hi> and Saints blood have been ſhed; for which we may ra<g ref="char:EOLhyphen"/>tionally fear, Tunns of others, the Effuſion of blood the Lord prevent: Yet ſhall we truſt to <hi>Micah</hi> 5.5. Eccleſiaſtical ſigns are plain, the Church waxing, not weaning, fair as the Moon, clear as the Sun, terrible as an Army with Banners; Miniſters having fire in their Tongues to kindle Zeal in Peoples breaſts, the Kirk the Kernel. Military ſigns are a praying Army, when <hi>Moſes</hi> hands knockt off from Prayer, <hi>Amaleck</hi> prevailed; certainly when <hi>Aemilius</hi> a <hi>Pagan</hi> would not give over ſacrifice<g ref="char:EOLhyphen"/>ing till a ſign of Victory, much more we,
+<pb facs="tcp:180250:4"/>Martyrological 1851 Martyrs, have ſealed this with their Blood. Caeleſtial by Perpen<g ref="char:EOLhyphen"/>dicular and preſaging Comets, portending ing chiefly the computation of ſeven Seals, ſeven Trumpets, ſeven Vials, pouring out on <hi>Babylon:</hi> Yet may all dread the cup of God's wrath go round, and drops falling u<g ref="char:EOLhyphen"/>pon us <hi>the Lord avert a beſom of deſtruction.</hi> Nor do we want Accademical ſigns, few Metaphi<g ref="char:EOLhyphen"/>ſical heads, much more Theological hearts; <hi>Arminianiſime</hi> planted many years agoe, not yet eradicated; hence is <hi>Scotland</hi>'s glory ſtain'd by illiterate and raw prophane, and polluted Nurſeries. Neither do we truſt to Immediate Miſſion, or Revelation yet Prognoſtick Symptomes, are patent penitential. 3 <hi>Jonah</hi> 8 <hi>Man and Beaſt cry'd to the Lord, the Heathen deputed a day for mourning, to eat the bread of mourners, and drink a cup of their own tears.</hi>
+            </p>
+            <p>Teſtimonial where the Teſtimony is not flung at our heels, but Valiantly propugned. Critical a glorious Manifeſtation of the Me<g ref="char:EOLhyphen"/>diatory Kingdom of Chriſt before the day of Dooms-day, whether it ſhall be by a for<g ref="char:EOLhyphen"/>mal ſworn Covenant, or more Glorious Diſ<g ref="char:EOLhyphen"/>covery, I ſhall not determine. <hi>Zech.</hi> 14. <hi>No Cannanite in the Houſe of the Lord,</hi> that is, none mak'n ſlaves of the ſouls of men, Architectu<g ref="char:EOLhyphen"/>ral, that is not only a regular Diſpoſition of the Members of a Work, but a Symmetri<g ref="char:EOLhyphen"/>cal
+<pb facs="tcp:180250:4"/>proportion to that glorious work of Refor<g ref="char:EOLhyphen"/>mation in our Fathers dayes; <hi>Homogenical</hi> and <hi>Organical,</hi> The right our Fathers had to hold a Chriſtian Society among themſelves, by publick Societies, and the exerciſe of their Miniſtry the property peculiarly of believers; ſince Faith, Piety and Charity binds us to an external Society, without which they can<g ref="char:EOLhyphen"/>not be called ſheep, not in reſpect of their ordinary Paſtors, but in reſpect of their Faith in Jeſus Chriſt. To note, that it is Faith and not the Miniſtry, which makes the Society, and by conſequence renders their Aſſemblies Lawful and Neceſſary: Yet (mind I am a perfect Enemy to the 32 Sects of <hi>England,</hi> and abhore the right of gifted Brethrening) my Teſtificates, plainly make appear to the <hi>Provoſt</hi> and <hi>Solicitor</hi> of <hi>Edinburgh,</hi> who read them, but eſpecially my writting againſt them at <hi>London,</hi> whereby for truth, <hi>I</hi> became the object of their Malice. Tho the External Society, be common to good and bad, Wheat and Tares, mingled externally in the Body of the Church, yet the right of External Society reſides in the Faithful only. His Myſtical Body for which he dyed, the Seed which he Sowed with his own hand, againſt the Harveſt, <hi>Iſa.</hi> 7. <hi>Who has required this of thy hand, to tread in my Courts!</hi> And <hi>Pſ.</hi> 51. <hi>What haſt thou adoc to read my Covenant,
+<pb facs="tcp:180250:5"/>and Laws.</hi> The Tares have communion, only by accident, till the Harveſt. <hi>Auſtin. Lib.</hi> 7. <hi>C.</hi> 5. Teaches plainly that the Power of the Keys Binding and Looſing, is given to the Church of the truely Faithful, in Oppoſition to the men of the World, that are mixt with them. They then having a right to be in a Religious Society, over whom Chriſt is Supreme Law<g ref="char:EOLhyphen"/>giver, <hi>Iſa</hi> 35. Their Law binds the Elicite Acts of the Conſcience, of all indefinitely: Hence Sun, Moon, Stars, are ſaid to bow to Joſeph, that is to the Church. (yet we ſafe<g ref="char:EOLhyphen"/>ly maintain a Co-ordination of Powers and Sub-Ordination of Perſons. Its the Elegant ſaying of the Honourable Lord <hi>Brook</hi> of <hi>England,</hi> if the Church ſwallow up the State inflowes Superſtition and Idolatry: If the State ſwallow up the Church, inflows <hi>A<g ref="char:EOLhyphen"/>theiſm</hi> and Ignorance. Hence <hi>Paul</hi> draws the inference of the Authority, which the Lord hath given to us, not for your deſtruction, but for your edification; which right the Church, has at the bottom, her formation and ſubſiſtence, as ſecretly in a good and ſo<g ref="char:EOLhyphen"/>veraign hand preſerved: <hi>In Parenthſi</hi> know this is no negative, much more a poſitive ſe<g ref="char:EOLhyphen"/>paration, as the noble Orthodox party againſt the <hi>Arians</hi> meeting, as they could ſometimes in their fields. But rather a ſtanding ſtill. Jer. 15.19, 21. <hi>Till men return to their old princi<g ref="char:EOLhyphen"/>ples.</hi>
+               <pb facs="tcp:180250:5"/>38 and 49. Amongſt all our ſigns none more penetrating and pierceing, then Deſertion, Penal, Medicinal or Probatory. The firſt, when God judicially delivers up a man to hardneſs of heart as <hi>Pharoah.</hi> The 2 &amp; 3, a bleſſing for the future, but a judgement for the time; and ſome may ſay oh, that they could water the ſteps of their backſliding with tears; the fear of man brings a ſnare, he that truſts in the Lord ſhall be delivered, the ſun of righteouſneſs runing under a cloud that they cannot read their evidences for Heaven, has been burdenſome to ſome, tho I knew o<g ref="char:EOLhyphen"/>thers and the ſame perſons in the like caſe, might attain to have their thoughts break the Clouds, there ſoul a chronicle of the love of Chriſt, a pſalm book of his praiſe. Yet luſtful Gallants may carouſe at leiſure, their pouder hair may forget the duſt, were their skin as thick as the Whales, the Bullet of Death will pierce them. Of ſuch was one <hi>Parker</hi> of <hi>England,</hi> who mockt at aquaintance with <hi>God,</hi> &amp; obtain<g ref="char:EOLhyphen"/>ed his ſhort Heaven and long Hell, a ſun of wealth and proſperity, before a thunder bolt of Vengeance: Nor are they better, who waſh Sarans face with a colour of Religion.</p>
+            <p>Naked truth, that needs not the purple partociny (even tho' of <hi>Conſtantine</hi> extorts me to ſpeak? that thereby I may be ſeen, about thoſe dozen of years wandering, which God
+<pb facs="tcp:180250:6"/>booketh down, and will the Innocents, and Sufferers tears bottle up. It pleaſed the Lord after my licence and formal trial at <hi>London,</hi> to order my lot in the company of Holy and faithful Mr. <hi>Welſh</hi> in the weſt of <hi>Scotland,</hi> by whom I was invited to preach; Mr. <hi>John Cuninghame,</hi> and Mr. <hi>John Black,</hi> and M. <hi>W L.</hi> being preſent: Then the Church of God in <hi>Scotland</hi> like a Ship among the Jaws and Waves of Tribulation: ſore toſt, many of her Paſſengers drowning, and her Skippers and Watch men, rowing aſhore to ſave to ſave their life. I kept the fields and other places for ſome time after: <hi>Bothwel</hi> in the 81 then being induced and invited by others, inclined to that my ſelf, I went for <hi>Holland</hi> to print, the Teſtimony of the Church of <hi>Scotland,</hi> againſt <hi>Popery</hi> and <hi>Prelacy;</hi> the Con<g ref="char:EOLhyphen"/>veyance thereof in all the Centuries, and in each period of time. At <hi>Leith</hi> being perceiv<g ref="char:EOLhyphen"/>ed, and my Brother in Law taken, the Cop<g ref="char:EOLhyphen"/>pies cancelled, and I eſcaped and went for <hi>London:</hi> Where falling happily acquainted with a vertuos perſon, the Earle of <hi>Angleſey I</hi> wrote a Reply in 4<hi>to.</hi> to the <hi>Caſſandrian Do<g ref="char:EOLhyphen"/>ctrine</hi> emitted from one of the Frogs of <hi>Anti<g ref="char:EOLhyphen"/>chriſt:</hi> The book it ſelf bears the Tittle, <hi>Scot<g ref="char:EOLhyphen"/>land pulling down the gates of</hi> Rome, <hi>Chriſt a<g ref="char:EOLhyphen"/>gainſt</hi> Antichriſt, <hi>the Lambs friends againſt the Dragons followers, with ſome remarks hiſtorically
+<pb facs="tcp:180250:6"/>upon the Comet Star, and examination of the Popiſh Confeſſions, and deſcription of the Romiſh Morals: <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o which my Name is affixed.</hi> Which was prin<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed about that fatal conjuncture of time, the death of the famous Lord <hi>Ruſsel:</hi> from thence returning to <hi>Scotland.</hi> I privately re<g ref="char:EOLhyphen"/>ſided at <hi>Whiteborn,</hi> till one <hi>Armillan</hi> younger, who received the Sacrament, as <hi>Presbiterian,</hi> as <hi>Teſt-man,</hi> as <hi>Papiſt</hi> all in 11 years time. Co<g ref="char:EOLhyphen"/>wardly and Craftily, apprehended and abu<g ref="char:EOLhyphen"/>ſed me cruelly; 4 years before having plun<g ref="char:EOLhyphen"/>dered and pillaged the whole Country, and my Chamber and Books amongſt the reſt; for which he and others, God in providence ſhall fetch to a Court of blood ſhed and op<g ref="char:EOLhyphen"/>preſſion; he not being ſatisfied with perjury and forgery of my hand writting; which he pretend he had, but debauched mens and womens conſciences to 400 Oaths, he and o<g ref="char:EOLhyphen"/>thers, in a day; till at laſt he landed in A<g ref="char:EOLhyphen"/>dultery, with his ſervant, and Murther of the ſame child, the woman being preſently executed at <hi>Air</hi> for the ſame; did depone (he eſcaping by the policy and power, of <hi>Craigy Wallace.</hi>) I being carried priſoner to <hi>Glaſgow, Falkirk,</hi> and other places, in a pitiful manner. I was ſtaged before the Counſel for Lybels and Books, and preaching in the Fields, at the reſentment of which, I cannot cover the ſen<g ref="char:EOLhyphen"/>timent of my thoughts, but with grief, that
+<pb facs="tcp:180250:7"/>the fear of Man, did ſo prevail to hinder more full and faithful Teſtimony: Yet w<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> I keeped free that my heart, and the Tem<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tation never meet with Oaths, Bonds, <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> This being over, I return'd to the Weſt, an<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> publickly preacht; and then went for <hi>London</hi> where that Book was printed <hi>Gods Garde<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hedged and watred.</hi> In reference to an Eſſay o<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Antidote againſt diſtractions, in Gods wor<g ref="char:EOLhyphen"/>ſhip; coming too ſpeedily from <hi>London</hi> hom<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> again, and embraceing an Invitation did preach, upon the 33 of <hi>Iſa. The Lord is our King, the Lord is our Lawgiver.</hi> where I aſſer<g ref="char:EOLhyphen"/>ted the headſhip of Jeſus Chriſt.</p>
+            <p>Then again was I apprehended, at the or<g ref="char:EOLhyphen"/>der of <hi>Buchan,</hi> and ſome others, and guard<g ref="char:EOLhyphen"/>ed 10 weeks, and 4 days, in the Dungeon of <hi>Air;</hi> where the Arm of the Lord reſcued me, and two other old men, from my Ene<g ref="char:EOLhyphen"/>mies; who had blood in their Teeth, and abominations in their mouth, 9 <hi>Zec. I brake out, the Sentinalls ſleeping.</hi> Now this is the third time of my impriſonment as was reported by the (Right Honorable Earle <hi>Crawford</hi>'s order) the provoſt of <hi>Edinburgh,</hi> and the Solicitor, coming into the Priſon, did que<g ref="char:EOLhyphen"/>ſtion me upon ſeveral heads, and after<g ref="char:EOLhyphen"/>wards did take away my teſtimonials to peruſe, and did return the ſame by a Macer, not only my Licence and Ordinati<g ref="char:EOLhyphen"/>on
+<pb facs="tcp:180250:7"/>but Teſtificates of my former Deport<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nt; the Teſtimony privately and pub<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>kly <hi>I</hi> maintain, I openly yet Reverendly <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ed out; I was againſt <hi>Popery, Prelacy, Li<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>y of Conſcience,</hi> and that thorow Grace, I <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>olved to dye by the Acts of the Aſſembly <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nd 49. as conſonant to the Analogy of <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>th and holy Bible. <hi>I</hi> cannot omitt what <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> betwixt Me and the Reverend Mr. <hi>J. W.</hi> 
+               <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> at <hi>Glaſgow,</hi> then at <hi>Eccleſom,</hi> who at the <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>inning of the <hi>Popiſh Toleration,</hi> was ſwal<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>wed up, by this <hi>Jonahs</hi> Whale: <hi>Boggle not,</hi> 
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>es he, <hi>ſince ye ventered your neck with Mr. J. R. <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>erly,</hi> I plainly prohibit him to own it or <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Addreſſe, as Diametrically againſt our <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>sciples, when <hi>Julian</hi> ſummoned hell to <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> him, the Devil gave him the engine of <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ration.</p>
+            <p>There remaineth one Objection unremov<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>tho a threed bare Argument: thus it is, as <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> had converſed with one <hi>Dunbar,</hi> one of the <hi>
+                  <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ans</hi> in order to my deliverance, a horrid <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> wicked lye, even ſuch as they branded <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Worthies formerly: For I take GOD <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> witneſs, I never ſpoke with one of them, <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> I knew him either name or ſurname, <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> or figure, ſave him who was my Anta<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>iſt, againſt whom I wrote, the examina<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of the <hi>Popiſh Catechiſm,</hi> neither did debate <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> him, or converſe an hour in all, and
+<pb facs="tcp:180250:8"/>that in a publick Coffee-houſe; ſo let the <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of hell ſmoke out of their mouths and ha<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>lies, the Devils babes, hot coals of Juni<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> are prepared for falſe Tongues; ſin is <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Souls ſickneſs, Confeſſion the ſouls vo<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> which the 8 <hi>Levites,</hi> in the 9. of <hi>Nehemiah,</hi> 
+               <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Precept, by Pattern, acknowledge be<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> they lay one Stone in Gods houſe, the <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of Defection, having blown out the eye <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the World: <hi>Darkneſs</hi> ſayeth <hi>Jeremiah, <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Earth, groſs darkneſs the People.</hi> After ſ<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> dayes deliberation, ſcrutiny and due exaa<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>nation of my Principles, Papers, Perſiſt<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and Adherence to the Acts of Aſſem<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> The Right Honourable the <hi>Earle</hi> of <hi>C<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ford,</hi> perſonally with a Macer, came to <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Priſon door and ordered my Liberat<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> having every day entered the Liſt, <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Epiſcopal</hi> Clergy and Gentry, and Tolera<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Truth, with its Energie did ſufficiently <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>dicate me. Hence Miniſters are to cont<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> for the <hi>Faith, once delivered to the Saints,</hi> 
+               <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> by ſuffering, were it to ſeal with their Bl<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> what they ſpeak with their mouth in <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Chair of Truth, for the ſame indivi<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Truths, the former Lords Days at K<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Kirk, and <hi>Drumſhorlin moor,</hi> preceeding <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Impriſonment; <hi>I</hi> plainly Preached, w<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>fully and freely, <hi>I</hi> did aver before <hi>My <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Provoſt.</hi> From <hi>Jer.</hi> 50 <hi>Come joyn your ſelves
+<pb facs="tcp:180250:8"/>the Lord in a perpetual Covenant:</hi> I could not paſs from the Reformation, and Proteſtation relating thereto, for the Lawdable Laws of my Maſters houſe, tho <hi>I</hi> ſhould have gone the gate of Mr. <hi>Rennick:</hi> Theſe were the in<g ref="char:EOLhyphen"/>dividual words to <hi>My Lord Provoſt</hi> and <hi>Solicitor;</hi> For Illuſtration and Confirmation whereof, take a Tranſient view of the <hi>Aſſemblies</hi> Acts.</p>
+            <div type="document">
+               <head>Acts of the General Aſſemblie <hi>Seſſ. 23.</hi> Dec. <hi>17.</hi>
+               </head>
+               <p>Anent the Entry and Converſation of Miniſters, its expedient that the Acts of Aſſembly holden at <hi>Edinburgh,</hi> March <hi>4. 1595.</hi> Be ratified and put in Execution in every Presbyterie; And to that end, get a Coppie under the <hi>Clerks</hi> hand, whereof the Tenure followeth <hi>Seſſ. 7.</hi> March <hi>26.</hi> of the Aſſembly at <hi>Edinburgh, 1596.</hi> Concerning the Defections of the Miniſterie, the ſame being at length read out and conſidered, in order to ſee the Kirk and Miniſtrie purged, to the effect, the Work may have better ſuc<g ref="char:EOLhyphen"/>ceſs; they think it neceſſary that this Aſsembly be humbled for want of ſuch care, as became in ſuch points, and that ſome Zealous and Godly Brethren in Doctrine, lay them out for their Humiliation; and they make Solemn promiſe bifore the Majeſtie of GOD, to make new Covenant with him, for a more careful and Reverend diſcharge of their Mini<g ref="char:EOLhyphen"/>ſterie
+<pb facs="tcp:180250:9" rendition="simple:additions"/>And that ſpeedily the Corruptions and Enor<g ref="char:EOLhyphen"/>mities of the Miniſterie be Remedied, to Avert the impendant Judgments in order thereto. <hi>Seſſ. 8. Auguſt 17.</hi> Containing the Cauſes and Remedie of the bygone Evil of the Kirk. The Kings Will and Pleaſure is, That all Queſtions about Religion and matters Eccleſiaſtical, be determined by the Aſſembly of this Kirk: And Moreover, that no Perſons blaked with Publick Defection, have power to Vote in the Lords Houſe, till they condemn Doctri<g ref="char:EOLhyphen"/>nally theſe Defections, <hi>&amp;c.</hi> Hence are condemned the ſordid and ſullen Apprehenſions of many, where<g ref="char:EOLhyphen"/>by their vile Aſperſions are wept off; <hi>&amp;c.</hi> As ſuffer<g ref="char:EOLhyphen"/>ing honeſt men, intended the unchurching of the Mi<g ref="char:EOLhyphen"/>niſterie, and eaſting off of the ſame, when nothing is deſigned nor deſired, ſave reducing of the Church to the Rules of her Husbands houſe. <hi>Hoſea 2.</hi> v. <hi>1.3.</hi>
+               </p>
+               <p>The Church of <hi>Scotland</hi> was unite <hi>45</hi> years, by by means of Diſcipline.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
